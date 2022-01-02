@@ -8,5 +8,5 @@ Link para activar la Realidad Aumentada del modelo Ascensor Ermua, utilizando el
 
 https://inigozalaya.github.io/AscensorErmuaAR1epelm/
 
-     ![alt text](https://github.com/InigoZalaya/AscensorErmuaAR1epelm/blob/main//default-marker.png?raw=true)
+   ![alt text](https://github.com/InigoZalaya/AscensorErmuaAR1epelm/blob/main//default-marker.png?raw=true)
 
